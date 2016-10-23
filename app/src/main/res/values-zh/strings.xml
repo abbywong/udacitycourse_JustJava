@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+        <string name="app_name">" 只是Java"</string>
+        <string name="name">名字</string>
+        <string name="quantity">数量</string>
+        <string name="toppings">配料</string>
+        <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+        <string name="whipped_cream">奶油</string>
+        <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+        <string name="chocolate">巧克力</string>
+        <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=5] -->
+        <string name="initial_quantity_value">2</string>
+        <string name="order">下单</string>
+        <!-- Thank you message for the order summary. [CHAR LIMIT=NONE] -->
+        <string name="thank_you">谢谢！</string>
+        <string name="order_summary_chocolate">加巧克力吗？<xliff:g id="chocName" example="Yes!">%s</xliff:g></string>
+               <string name="order_summary_name">名字:<xliff:g id="name" example="Amy">%s</xliff:g></string>
+        <string name="order_summary_price">总价：<xliff:g example="$10" id="price">%s</xliff:g></string>
+        <string name="order_summary_quantity">数量<xliff:g example="2" id="quantity">%d</xliff:g></string>
+        <string name="order_summary_whipped_cream">加奶油吗？<xliff:g id="whippedCreamName" example="No!">%s</xliff:g></string>
+        <string name="order_summary_email_subject"><xliff:g id="name" example="Amy">%s</xliff:g>的Java订单</string>
+        <string name="yes">是!</string>
+        <string name="no">否!</string>
+    </resources>
+
